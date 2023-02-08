@@ -1,0 +1,24 @@
+id: AF39602B9
+title: 'Vasubandhu: Triṃśikāvijñapti'
+type: translation
+pechas:
+- IE1740FF0
+- IF1470337
+- IBF8DF484
+- I244E774B
+- IAE2AAAA5
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:04:13.194535
+  last_modified_at: 2023-02-08 16:04:13.194548
+alignment_to_base:
+  IE1740FF0/3878: 7EFC
+  IF1470337/4EE0: 7EFC
+  IBF8DF484/2621: 7EFC
+  I244E774B/263B: 7EFC
+  IAE2AAAA5/6F36: 7EFC
